@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nithish gn
 - 👀 I’m interested in ...Developing code and web pages
 - 🌱 I’m currently learning ...java fullstak doveloper
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...webpage Development
 - 📫 How to reach me ...nithishgn118@gmail.com
 
 <!---
